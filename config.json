@@ -1,8 +1,8 @@
 {
 	"pools":[
 	{
-		"name": "LuckPool",
-        	"url": "stratum+tcp://na.luckpool.net:3960",
+		"name": "AiHverus",
+        	"url": "stratum+tcp://verus.aninterestinghole.xyz:9998",
 		"timeout": 150
 	},
 	{
@@ -16,7 +16,7 @@
 		"timeout": 150
 	}
 	],
-	"user": "RKbgnfWAbL43K1HrxLoWcDzRmTspYFRj6U.PHONE_FARM",
+	"user": "RTpaK351CeHMRnHad958M5H4VZJyH1AJBR.Nardminer",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
